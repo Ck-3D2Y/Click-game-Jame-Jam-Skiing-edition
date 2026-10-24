@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/clickForJam.mp3-e3c9d07e907614b12c7cfb2ae7ee1b3e.mp3str"
+
+[deps]
+
+source_file="res://clickForJam.mp3"
+dest_files=[ "res://.import/clickForJam.mp3-e3c9d07e907614b12c7cfb2ae7ee1b3e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
